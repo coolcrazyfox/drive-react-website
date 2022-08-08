@@ -1,7 +1,7 @@
 {
   "name": "cars",
   "version": "0.1.0",
-  "homepage": "https://coolcrazyfox.github.io/shop-app/",
+  "homepage": "https://coolcrazyfox.github.io/drive-react-website/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
