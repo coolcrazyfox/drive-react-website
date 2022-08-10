@@ -1,6 +1,6 @@
 import { React, useState } from 'react';
 import styles from './Navbar.module.css';
-import Logo from '../../images/logo.png';
+import Logo from '../../images/logodrive.png';
 import {
   AiOutlineUser,
   AiOutlineSearch,
@@ -35,7 +35,7 @@ const Navbar = () => {
       </nav>
       <div onClick={()=> setNav(!nav)} className={styles.mobile_btn}>
         {nav ? <AiOutlineClose size={30} /> : <AiOutlineMenu size={30} />}
-        
+
       </div>
     </header>
   );
