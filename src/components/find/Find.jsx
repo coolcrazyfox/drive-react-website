@@ -68,7 +68,7 @@ const Find = () => {
             <Card
               image='https://autoreview.ru/images/Article/1669/Article_166962_860_575.jpg'
               make='Cadillac'
-              href='https://www.chevrolet.com/'
+              href='https://www.cadillac.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
