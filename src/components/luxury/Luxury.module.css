@@ -5,10 +5,11 @@
 }
 
 .luxury .container {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1rem;
-  padding: 4rem 0;
+  /*display: grid;*/
+  /*grid-template-columns: repeat(4, 1fr);*/
+  /*gap: 1rem;*/
+  /*padding: 4rem 0;*/
+  padding: 5rem 0;
 }
 
 .heading h1 {
