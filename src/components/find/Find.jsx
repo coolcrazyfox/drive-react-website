@@ -82,24 +82,27 @@ const Find = () => {
             <Card
                 image='https://images.unsplash.com/photo-1588636142475-a62d56692870?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amVlcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
                 make='Jeep'
-            />
+                href='https://www.jeep.com/grand-cherokee.html'            />
           </SwiperSlide>
           <SwiperSlide>
             <Card
               image='https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVyY2VkZXMlMjBiZW56fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
               make='Mercedes-Benz'
+              href='https://www.mercedes-benz.com/en/'
             />
           </SwiperSlide>
           <SwiperSlide>
             <Card
               image='https://images.unsplash.com/photo-1609521263047-f8f205293f24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bmlzc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
               make='Nissan'
+              href='https://www.nissanusa.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
             <Card
               image='https://images.unsplash.com/photo-1619682817481-e994891cd1f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHRveW90YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
               make='Toyota'
+              href='https://www.toyota.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
