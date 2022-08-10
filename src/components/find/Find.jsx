@@ -61,18 +61,21 @@ const Find = () => {
             <Card
               image='https://images.unsplash.com/photo-1555215695-3004980ad54e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ym13fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
               make='BMW'
+              href='https://www.bmwusa.com/home.html'
             />
           </SwiperSlide>
           <SwiperSlide>
             <Card
               image='https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hldnJvbGV0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
               make='Chevrolet'
+              href='https://www.chevrolet.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
             <Card
                 image='https://images.unsplash.com/photo-1604108415419-6d4bd73a1c2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
                 make='Ford'
+                href='https://www.ford.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
