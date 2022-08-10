@@ -28,5 +28,7 @@
 .footer button:hover {
     background-color: white;
     color: #935f91;
+    box-shadow: rgba(87, 85, 85, 0.9) 0px 8px 14px;
+    background-color: rgba(247, 247, 247, 0.9);
     transition: background-color 1s;
 }
