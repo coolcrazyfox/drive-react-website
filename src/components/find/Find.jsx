@@ -70,6 +70,18 @@ const Find = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Card
+                image='https://images.unsplash.com/photo-1604108415419-6d4bd73a1c2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
+                make='Ford'
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Card
+                image='https://images.unsplash.com/photo-1588636142475-a62d56692870?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amVlcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+                make='Jeep'
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Card
               image='https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVyY2VkZXMlMjBiZW56fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
               make='Mercedes-Benz'
             />
@@ -80,23 +92,10 @@ const Find = () => {
               make='Nissan'
             />
           </SwiperSlide>
-
           <SwiperSlide>
             <Card
               image='https://images.unsplash.com/photo-1619682817481-e994891cd1f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHRveW90YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
               make='Toyota'
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Card
-              image='https://images.unsplash.com/photo-1588636142475-a62d56692870?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amVlcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
-              make='Jeep'
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <Card
-              image='https://images.unsplash.com/photo-1604108415419-6d4bd73a1c2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
-              make='Ford'
             />
           </SwiperSlide>
           <SwiperSlide>
