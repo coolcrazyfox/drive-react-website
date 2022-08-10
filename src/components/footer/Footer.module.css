@@ -16,15 +16,17 @@
 }
 
 .footer button {
-    background-color: #593cfb;
+    background-color: #935f91;
     color: #fff;
     font-weight: 600;
     font-size: 1rem;
     padding: 12px 18px;
     border: none;
+    border-radius: 4px;
 }
 
 .footer button:hover {
-    background-color: #4733b7;
+    background-color: white;
+    color: #935f91;
     transition: background-color 1s;
-}   
+}
