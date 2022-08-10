@@ -109,12 +109,14 @@ const Find = () => {
             <Card
               image='https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGVzbGF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
               make='Tesla'
+              href='https://www.tesla.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
             <Card
               image='https://images.unsplash.com/photo-1580274455191-1c62238fa333?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9yc2NoZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
               make='Porsche'
+              href='https://www.porsche.com/usa/'
             />
           </SwiperSlide>
         </Swiper>
