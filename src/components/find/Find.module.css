@@ -56,7 +56,14 @@
   padding: 0.5rem;
   font-size: 1rem;
 }
-
+.card a{
+  cursor: pointer;
+  text-decoration: none;
+  color: #121214;
+}
+.card a:hover{
+  font-size: 0.9rem;
+}
 
 
 @media screen and (max-width: 500px) {

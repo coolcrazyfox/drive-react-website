@@ -54,6 +54,7 @@ const Find = () => {
             <Card
               image='https://images.unsplash.com/photo-1599912027806-cfec9f5944b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGF1ZGl8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
               make='Audi'
+              href='https://www.audiusa.com/us/web/en.html'
             />
           </SwiperSlide>
           <SwiperSlide>
