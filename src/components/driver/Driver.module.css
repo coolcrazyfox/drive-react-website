@@ -17,7 +17,7 @@
 }
 
 .driver span {
-    color: #935f91;
+    color: rgb(97, 125, 173);
 }
 
 .driver p {
@@ -27,7 +27,7 @@
 }
 
 .driver button {
-    background-color: #935f91;
+    background-color: rgb(157, 177, 229);
     color: #fff;
     font-weight: 600;
     font-size: 1rem;
@@ -38,8 +38,8 @@
 
 .driver button:hover {
     background-color: white;
-    color: #935f91;
-    border:1px solid #935f91;
+    color: rgb(110, 122, 155);
+    border:1px solid  rgb(157, 177, 229);
     box-shadow: rgba(0, 0, 0, 0.9) 0px 8px 14px;
     background-color: rgba(247, 247, 247, 0.9);
     transition: background-color 1s;
