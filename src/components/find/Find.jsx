@@ -73,20 +73,20 @@ const Find = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Card
-                image='https://images.unsplash.com/photo-1604108415419-6d4bd73a1c2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvcmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60'
+                image='https://rohanawheels.com/wp-content/uploads/2019/08/Ford-Mustang-RFX13-Brushed-Titanium-50005.jpg'
                 make='Ford'
                 href='https://www.ford.com/'
             />
           </SwiperSlide>
           <SwiperSlide>
             <Card
-                image='https://images.unsplash.com/photo-1588636142475-a62d56692870?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8amVlcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+                image='https://cdn.wallpapersafari.com/85/23/O5fGUy.jpg'
                 make='Jeep'
                 href='https://www.jeep.com/grand-cherokee.html'            />
           </SwiperSlide>
           <SwiperSlide>
             <Card
-              image='https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVyY2VkZXMlMjBiZW56fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+              image='https://w0.peakpx.com/wallpaper/338/47/HD-wallpaper-mercedes-benz-amg-benz-black-car-logo-luxury-mercedes-silver.jpg'
               make='Mercedes-Benz'
               href='https://www.mercedes-benz.com/en/'
             />
