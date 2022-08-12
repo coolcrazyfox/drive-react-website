@@ -5,18 +5,21 @@ import Find from './components/find/Find'
 import Driver from './components/driver/Driver'
 import Luxury from './components/luxury/Luxury'
 import Footer from './components/footer/Footer'
+import Loading from "./components/preloader/Loading";
 
 function App() {
-  return (
-    <div>
-      <Navbar />
-      <Hero />
-      <Find />
-      <Driver />
-      <Luxury />
-      <Footer />
-    </div>
-  );
+
+    return (
+        <div>
+            <Navbar/>
+            <Hero/>
+            <Find/>
+            <Driver/>
+            <Loading/>
+            <Luxury/>
+            <Footer/>
+        </div>
+    );
 }
 
 export default App;

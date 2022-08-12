@@ -1,0 +1,37 @@
+.imgSpinner{
+    display: block;
+    width:70px;
+    height:70px;
+    margin-left: auto;
+    margin-right: auto;
+    /*padding: 10vh;*/
+    /*border:1px solid red;*/
+    animation: rotator 5s linear infinite;
+    transform-origin: center;
+}
+@keyframes rotator {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.path {
+    stroke-dasharray: 265;
+    stroke-dashoffset: 0;
+    transform-origin: center;
+    stroke: #3949ab;
+    animation: dash 1s ease-in-out infinite;
+}
+
+@keyframes dash {
+    0% {
+        stroke-dashoffset: 265;
+    }
+    50% {
+        stroke-dashoffset: 65;
+        transform: rotate(90deg);
+    }
+    100% {
+        stroke-dashoffset: 265;
+        transform: rotate(360deg);
+    }
+}
