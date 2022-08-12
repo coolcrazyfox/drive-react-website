@@ -114,7 +114,7 @@ const Find = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Card
-              image='https://images.unsplash.com/photo-1580274455191-1c62238fa333?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9yc2NoZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60'
+              image='https://wallpapershome.ru/images/pages/pic_v/22016.jpeg'
               make='Porsche'
               href='https://www.porsche.com/usa/'
             />
