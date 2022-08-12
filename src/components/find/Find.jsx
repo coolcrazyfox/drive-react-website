@@ -93,7 +93,7 @@ const Find = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Card
-              image='https://images.unsplash.com/photo-1609521263047-f8f205293f24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bmlzc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60'
+              image='https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/Patrol22/Main%20intro-M.jpg'
               make='Nissan'
               href='https://www.nissanusa.com/'
             />
