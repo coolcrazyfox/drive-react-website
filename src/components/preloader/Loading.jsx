@@ -1,5 +1,5 @@
 import React from 'react';
-import preload from './wheel-spinner-svgrepo-com.svg';
+import preload from './spinner1.svg';
 import s from './Loading.module.css'
 
 const Loading = () => {
