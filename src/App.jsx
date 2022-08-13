@@ -30,7 +30,7 @@ function App() {
             <Driver/>
             <Luxury/>
             <Footer/>
-            <Login/>
+            {/*<Login/>*/}
         </div>
     );
 }
