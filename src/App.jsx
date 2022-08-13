@@ -7,6 +7,7 @@ import Driver from './components/driver/Driver'
 import Luxury from './components/luxury/Luxury'
 import Footer from './components/footer/Footer'
 import Loading from "./components/preloader/Loading";
+import Login from "./components/login/Login";
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
             <Driver/>
             <Luxury/>
             <Footer/>
+            <Login/>
         </div>
     );
 }
