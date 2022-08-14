@@ -7,6 +7,7 @@ import {
   AiOutlineMenu,
   AiOutlineClose,
 } from 'react-icons/ai';
+import {Link} from "react-router-dom";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -20,7 +21,7 @@ const Navbar = () => {
             <a href='/#'>Learn More</a>
           </li>
           <li>
-            <a href='/#'>Log in</a>
+            <Link to={'/login'} ><a href='/#'>Log in</a></Link>
           </li>
           <li>
             <a href='/#'>Sign up</a>
