@@ -1,12 +1,3 @@
-/**{*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*    box-sizing: border-box;*/
-/*    font-family: 'Poppins', sans-serif;*/
-/*}*/
-/*body{*/
-/*    overflow: hidden;*/
-/*}*/
 section {
     display: flex;
     justify-content: center;
@@ -27,7 +18,7 @@ section .color:nth-child(1) {
     top: 100px;
     width: 1000px;
     height: 500px;
-    background: #efecec;
+    background: #75729f;
 }
 
 section .color:nth-child(2) {
@@ -43,7 +34,7 @@ section .color:nth-child(3) {
     right: 200px;
     width: 700px;
     height: 300px;
-    background: #888181;
+    background: #739ca4;
 }
 
 .box {

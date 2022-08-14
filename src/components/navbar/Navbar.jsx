@@ -18,7 +18,7 @@ const Navbar = () => {
       <nav>
         <ul className={nav ? [styles.menu, styles.active].join(' ') : [styles.menu]} >
           <li>
-            <Link to={'/learnmore'} >Learn More
+            <Link to={'/'} >Learn More
               {/*<a href='/le'>Learn More</a>*/}
             </Link>
           </li>
