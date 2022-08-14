@@ -8,6 +8,7 @@ import Luxury from './components/luxury/Luxury'
 import Footer from './components/footer/Footer'
 import Loading from "./components/preloader/Loading";
 import Login from "./components/login/Login";
+import {Route, Routes} from "react-router-dom";
 
 
 function App() {
@@ -25,6 +26,9 @@ function App() {
     return (
         <div>
             <Navbar/>
+            <Routes>
+                <Route path={'/login'} element={<Login/>}/>
+            </Routes>
             <Hero/>
             <Find/>
             <Driver/>
