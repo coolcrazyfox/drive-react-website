@@ -1,12 +1,12 @@
-import React, {useEffect} from 'react'
-import {useDispatch, useSelector} from 'react-redux';
+import React from 'react'
+// import {useDispatch, useSelector} from 'react-redux';
 import Navbar from './components/navbar/Navbar'
 import Hero from './components/hero/Hero'
 import Find from './components/find/Find'
 import Driver from './components/driver/Driver'
 import Luxury from './components/luxury/Luxury'
 import Footer from './components/footer/Footer'
-import Loading from "./components/preloader/Loading";
+// import Loading from "./components/preloader/Loading";
 import Login from "./components/login/Login";
 import {Route, Routes} from "react-router-dom";
 import Signup from "./components/signup/Signup";
