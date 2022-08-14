@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/drive-react-website/static/css/main.aed299a1.css",
-    "main.js": "/drive-react-website/static/js/main.0f48f4c8.js",
+    "main.css": "/drive-react-website/static/css/main.cde3003a.css",
+    "main.js": "/drive-react-website/static/js/main.4a816a2f.js",
     "static/media/drive.png": "/drive-react-website/static/media/drive.6bd20e182296ea68fb9b.png",
+    "static/media/spinner1.svg": "/drive-react-website/static/media/spinner1.59ba89551c3269b74da4e654eda0dac7.svg",
     "index.html": "/drive-react-website/index.html",
-    "main.aed299a1.css.map": "/drive-react-website/static/css/main.aed299a1.css.map",
-    "main.0f48f4c8.js.map": "/drive-react-website/static/js/main.0f48f4c8.js.map"
+    "main.cde3003a.css.map": "/drive-react-website/static/css/main.cde3003a.css.map",
+    "main.4a816a2f.js.map": "/drive-react-website/static/js/main.4a816a2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.aed299a1.css",
-    "static/js/main.0f48f4c8.js"
+    "static/css/main.cde3003a.css",
+    "static/js/main.4a816a2f.js"
   ]
 }
