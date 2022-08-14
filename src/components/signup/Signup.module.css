@@ -1,3 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    overflow: hidden;
+}
+
 section {
     display: flex;
     justify-content: center;
@@ -120,7 +130,7 @@ section .color:nth-child(3) {
 .form h2{
     position: relative;
     color: rgba(64, 63, 80, 0.4);
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
     letter-spacing: 1px;
     margin-bottom: 40px;
@@ -171,8 +181,8 @@ section .color:nth-child(3) {
     color: white;
 }
 .form .inputBox input[type="submit"]{
-    background: white;
-    color: #666;
+    background: #739ca4;
+    color: #d5d2d2;
     max-width: 100px;
     cursor: pointer;
     margin-bottom: 20px;
