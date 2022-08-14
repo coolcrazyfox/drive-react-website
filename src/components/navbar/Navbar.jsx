@@ -18,19 +18,13 @@ const Navbar = () => {
       <nav>
         <ul className={nav ? [styles.menu, styles.active].join(' ') : [styles.menu]} >
           <li>
-            <Link to={'/'} >Learn More
-              {/*<a href='/le'>Learn More</a>*/}
-            </Link>
+            <Link to={'/'} >Learn More</Link>
           </li>
           <li>
-            <Link to={'/login'} > Log in
-              {/*<a href='/#'>Log in</a>*/}
-            </Link>
+            <Link to={'/login'} > Log in</Link>
           </li>
           <li>
-            <Link to={'/signup'} >Sign up
-              {/*<a href='/#'>Sign up</a>*/}
-            </Link>
+            <Link to={'/signup'} >Sign up</Link>
           </li>
           <li>
             <AiOutlineSearch size={25} style={{ marginTop: '6px' }} />
