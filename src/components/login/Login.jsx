@@ -4,15 +4,15 @@ import s from './Login.module.css'
 const Login = () => {
     return (
         <section>
-            <div className={s.color} ></div>
+            <div className={s.color}></div>
             <div className={s.color}></div>
             <div className={s.color}></div>
             <div className={s.box}>
-                <div className={s.square} ></div>
-                <div className={s.square} ></div>
-                <div className={s.square} ></div>
-                <div className={s.square} ></div>
-                <div className={s.square} ></div>
+                <div className={s.square}></div>
+                <div className={s.square}></div>
+                <div className={s.square}></div>
+                <div className={s.square}></div>
+                <div className={s.square}></div>
                 {/*<div className="square" style={{"--i:0;"}}></div>*/}
                 {/*<div className="square" style="--i:1;"></div>*/}
                 {/*<div className="square" style="--i:2;"></div>*/}
@@ -20,7 +20,7 @@ const Login = () => {
                 <div className={s.container}>
                     <div className={s.form}>
                         <h2 data-text="&nbsp;Login Form">&nbsp;Login Form</h2>
-                        <form >
+                        <form>
                             <div className={s.inputBox}>
                                 <input type="text" placeholder={"Username"}/>
                             </div>

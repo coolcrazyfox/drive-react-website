@@ -9,6 +9,7 @@ import Footer from './components/footer/Footer'
 import Loading from "./components/preloader/Loading";
 import Login from "./components/login/Login";
 import {Route, Routes} from "react-router-dom";
+import Signup from "./components/signup/Signup";
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
             <Navbar/>
             <Routes>
                 <Route path={'/login'} element={<Login/>}/>
+                <Route path={'/signup'} element={<Signup/>}/>
             </Routes>
             <Hero/>
             <Find/>
