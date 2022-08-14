@@ -18,7 +18,7 @@ section .color:nth-child(1) {
     top: 100px;
     width: 1000px;
     height: 500px;
-    background: #75729f;
+    background:#b9c5ce;
 }
 
 section .color:nth-child(2) {
