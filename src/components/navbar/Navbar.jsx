@@ -24,7 +24,7 @@ const Navbar = () => {
             <Link to={'/login'} ><a href='/#'>Log in</a></Link>
           </li>
           <li>
-            <a href='/#'>Sign up</a>
+            <Link to={'/signup'} ><a href='/#'>Sign up</a></Link>
           </li>
           <li>
             <AiOutlineSearch size={25} style={{ marginTop: '6px' }} />
