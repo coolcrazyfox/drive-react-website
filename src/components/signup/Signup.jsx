@@ -15,7 +15,7 @@ const Signup = () => {
                 <div className={s.square} ></div>
                 <div className={s.container}>
                     <div className={s.form}>
-                        <h2 data-text="&nbsp;Login Form">&nbsp;Login Form</h2>
+                        <h2 data-text="&nbsp;Sign Up Form">&nbsp;Sign Up Form</h2>
                         <form >
                             <div className={s.inputBox}>
                                 <input type="text" placeholder={"Username"}/>
