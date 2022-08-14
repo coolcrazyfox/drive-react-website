@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/drive-react-website/static/css/main.45ca3fcc.css",
+    "main.css": "/drive-react-website/static/css/main.60e60284.css",
     "main.js": "/drive-react-website/static/js/main.29e2d4ae.js",
     "static/media/drive.png": "/drive-react-website/static/media/drive.6bd20e182296ea68fb9b.png",
     "index.html": "/drive-react-website/index.html",
-    "main.45ca3fcc.css.map": "/drive-react-website/static/css/main.45ca3fcc.css.map",
+    "main.60e60284.css.map": "/drive-react-website/static/css/main.60e60284.css.map",
     "main.29e2d4ae.js.map": "/drive-react-website/static/js/main.29e2d4ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.45ca3fcc.css",
+    "static/css/main.60e60284.css",
     "static/js/main.29e2d4ae.js"
   ]
 }
