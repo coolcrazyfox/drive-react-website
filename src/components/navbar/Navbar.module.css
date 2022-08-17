@@ -15,6 +15,11 @@
 .menu li {
   padding: 1rem;
 }
+.menu li:hover, .menu li:focus, .menu li:active{
+  opacity: 0.7;
+  color: #617dad;
+
+}
 
 .navbar a {
   color: #333;
