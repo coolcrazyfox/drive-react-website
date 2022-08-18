@@ -1,6 +1,30 @@
-.icon{
+.icon_home{
     display: flex;
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
     background-image: url(./home-outline.svg) ;
+}
+.icon_pro{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background-image: url(./person-circle-outline.svg) ;
+}
+.icon_message{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background-image: url(./chatbubble-ellipses-outline.svg) ;
+}
+.icon_photo{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background-image: url(./camera-outline.svg) ;
+}
+.icon_set{
+    display: flex;
+    width: 20px;
+    height: 20px;
+    background-image: url(./settings-outline.svg) ;
 }
