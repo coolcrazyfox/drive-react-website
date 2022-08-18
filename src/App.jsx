@@ -5,6 +5,7 @@ import Login from "./components/login/Login";
 import {Route, Routes} from "react-router-dom";
 import Signup from "./components/signup/Signup";
 import LearnMore from "./components/learnmore/LearnMore";
+import Search from "./components/search/Search";
 // import Navbar from "./components/navbar/Navbar";
 
 
@@ -27,6 +28,7 @@ function App() {
                 <Route path={'/'} element={<LearnMore/>}/>
                 <Route path={'/login'} element={<Login/>}/>
                 <Route path={'/signup'} element={<Signup/>}/>
+                <Route path={'/search'} element={<Search/>}/>
             </Routes>
         </div>
     );
