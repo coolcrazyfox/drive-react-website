@@ -12,30 +12,30 @@ const Search = () => {
             <div className={s.box}>
                 <ul className={s.navigation}>
                     <li className={s.active}>
-                        <a href="#">
-                            <span className={s.icon} style={{backgroundImage:`url(${home})`}}></span>
+                        <a href="#" >
+                            <span className={s.icon} style={{backgroundImage:`url(${home})`,color:'white',position:'absolute', fontSize:'1.75rem', display:'flex', width: '80px', height:'80px'}}></span>
                             <span className={s.text}>Home</span>
                         </a>
                     </li>
-                    <li className={s.active}>
+                    <li className={s.activeq}>
                         <a href="#">
                             <span className={s.icon}  style={{backgroundImage:`url(${prof})`}}></span>
                             <span className={s.text}>Profile</span>
                         </a>
                     </li>
-                    <li className={s.active}>
+                    <li className={s.activeq}>
                         <a href="#">
                             <span className={s.icon} style={{backgroundImage:`url(${chat})`}}></span>
                             <span className={s.text}>Messages</span>
                         </a>
                     </li>
-                    <li className={s.active}>
+                    <li className={s.activeq}>
                         <a href="#">
                             <span className={s.icon} style={{backgroundImage:`url(${photo})`}}></span>
                             <span className={s.text}>Photos</span>
                         </a>
                     </li>
-                    <li className={s.active}>
+                    <li className={s.activeq}>
                         <a href="#">
                             <span className={s.icon} style={{backgroundImage:`url(${setting})`}}></span>
                             <span className={s.text}>Settings</span>
