@@ -59,13 +59,10 @@
     border-radius: 50%;
 
 }
-.navigation li.active a .icon{
-    background: rgba(159, 114, 157, 0.21);
-    color: #ffff;
 
-}
 .navigation li a .icon_home{
-    background-image: url(./home-outline.svg);
+    /*background-image: url(./home-outline.svg);*/
+    /*color: white;*/
 }
 .navigation li a .icon_pro {
     /*position: absolute;*/
@@ -117,6 +114,12 @@
     /*color: #aaa;*/
     /*border-radius: 50%;*/
     background-image: url(./settings-outline.svg);
+}
+.navigation li.active a .icon{
+    background: rgb(159, 114, 157);
+    color: #ffff;
+    transform: translateY(-55px);
+
 }
 
 
